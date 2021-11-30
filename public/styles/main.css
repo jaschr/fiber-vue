@@ -1,0 +1,9 @@
+body {
+    background-color: beige;
+    color: darkslategray;
+}
+
+h1.title {
+    text-align: center;
+    justify-content: center;
+}
