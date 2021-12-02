@@ -1,3 +1,3 @@
-# pfol -- Portfolio
+# fiber-vue
 
-My personal portfolio website.
+A Fiber (Go) backend with a VueJS frontend.
